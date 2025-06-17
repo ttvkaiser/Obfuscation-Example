@@ -1,12 +1,22 @@
 --[[
- ███╗   ██╗███████╗██████╗ ██╗   ██╗██╗      █████╗ 
- ████╗  ██║██╔════╝██╔══██╗██║   ██║██║     ██╔══██╗
- ██╔██╗ ██║█████╗  ██████╔╝██║   ██║██║     ███████║
- ██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║██║     ██╔══██║
- ██║ ╚████║███████╗██████╔╝╚██████╔╝███████╗██║  ██║
- ╚═╝  ╚═══╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
- 
-         NebulaObfuscation v.test
+███╗   ██╗███████╗██████╗ ██╗   ██╗██╗      █████╗
+████╗  ██║██╔════╝██╔══██╗██║   ██║██║     ██╔══██╗
+██╔██╗ ██║█████╗  ██████╔╝██║   ██║██║     ███████║
+██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║██║     ██╔══██║
+██║ ╚████║███████╗██████╔╝╚██████╔╝███████╗██║  ██║
+╚═╝  ╚═══╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+        NebulaObfuscation v.0.1.1
 ]]--
 
-local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'function d(data)local c,s,o={},1,0 for i=1,#data do local v=b:find(data:sub(i,i))-1 if v then o=o*64+v;s=s+6 if s>=8 then s=s-8;table.insert(c,string.char(math.floor(o/2^s)%256))end end end return table.concat(c)end;loadstring(d("ZnVuY3Rpb24gU2V0U3BlZWRIaWdoZXIoKQogICAgcHJpbnQoIndvcmtpbmcgc3RhdHVzIikKICAgIGxvY2FsIFBsYXllcnMgPSBnYW1lOkdldFNlcnZpY2UoIlBsYXllcnMiKQogICAgbG9jYWwgcGxheWVyID0gUGxheWVycy5Mb2NhbFBsYXllcgogICAgbG9jYWwgY2hhcmFjdGVyID0gcGxheWVyLkNoYXJhY3RlciBvciBwbGF5ZXIuQ2hhcmFjdGVyQWRkZWQ6V2FpdCgpCiAgICBsb2NhbCBodW1hbm9pZCA9IGNoYXJhY3RlcjpXYWl0Rm9yQ2hpbGQoIkh1bWFub2lkIikKCiAgICBodW1hbm9pZC5XYWxrU3BlZWQgPSAxMDAKZW5kCgpTZXRTcGVlZEhpZ2hlcigp"))()
+_za9zis("\95\122\50\118\55\48\115")
+_fn93lv _vied2p()
+    _u763m7 _1svthk = _r8oe3t:_373ymq("\95\101\106\104\52\120\49")
+    _bvfvfj _12qxa2 = _eqicb1._gfysik
+    _vn37mx _soboun = _vlpol3._2i0dez _nwlz8x _ci47q3._9437wz:_4hzaks()
+    _gvbfrj _6ntu7x = _fndmr0:_1rsgax("\95\120\107\116\109\111\105")
+
+    _80uveh._l8l6o6 = 100 -- _6rm07t _zdvj4s 16, _17b69d 100 _mc9ji3 _whpkab _xsoprt
+_6n2xik
+
+_1uissv()
